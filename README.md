@@ -1,5 +1,7 @@
 # slido-app
 
+The used stack of technologies: React, TypeScript, Jest, Material-UI, Styled-components.
+
 ## Getting Started
 
 To start developing your React app:
